@@ -1,0 +1,9 @@
+compress_pickle
+numpy
+pandas
+streamlit==v1.10.0
+matplotlib
+sklearn
+networkx
+louvain
+pyspark
