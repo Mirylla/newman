@@ -190,7 +190,7 @@ class GirvanNewman:
 
 if __name__ == '__main__':
     start = time.time()
-    inputFile = sys.argv[1]
+    inputFile = sys.argv[0]
 
     gn = GirvanNewman(inputFile)
     gn.run()
