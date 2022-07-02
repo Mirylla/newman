@@ -7,3 +7,4 @@ sklearn
 networkx
 louvain
 pyspark
+oracle-java8-installer
